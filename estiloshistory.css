@@ -1,0 +1,39 @@
+body {
+    background-color: lightblue;
+    background-size: auto 100vh 100vw;
+     height: 100vh
+    
+  }
+    
+  .menu {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: lightskyblue;
+  }
+  
+  a{
+    text-decoration:none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .title {
+    font-family: arial;
+    text-align:center;
+  }
+  
+  .subtitle {
+    font-family: Helvetica;
+    color:white;
+    font-style:italic;
+  }
+  
+  .history {
+    font-style: italic;
+    color:gray;
+    text-align:center;
+  }
+  
+  
